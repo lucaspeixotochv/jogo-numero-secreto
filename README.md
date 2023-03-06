@@ -1,2 +1,2 @@
 # jogo-numero-secreto
-Um jogo de adivinhação onde o usuário tentar acertar o número através de reconhecimento de voz
+Um jogo de adivinhação onde o usuário tenta acertar o número através de reconhecimento de voz
